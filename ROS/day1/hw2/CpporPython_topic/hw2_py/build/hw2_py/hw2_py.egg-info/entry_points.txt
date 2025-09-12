@@ -1,0 +1,4 @@
+[console_scripts]
+P1 = hw2_py.P1:main
+S1 = hw2_py.S1:main
+
